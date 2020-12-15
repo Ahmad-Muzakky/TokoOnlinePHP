@@ -1,6 +1,8 @@
 # TokoOnlinePHP
 Project Toko online menggunakan PHP, HTML, dan database
 
+still on progress
+
 untuk full filenya dapat di download di link berikut
 
 https://drive.google.com/file/d/1iCojmfcPrW2_fWW6496x_yex8HU9S3DP/view?usp=sharing
