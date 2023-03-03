@@ -1,5 +1,5 @@
 # TokoOnlinePHP
-Project Toko online menggunakan PHP, HTML, dan database
+Project Toko online menggunakan PHP, Laravel, HTML, dan database
 
 still on progress
 
